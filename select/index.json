@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "声をきかせて",
+  "base_artist": "BIGBANG",
+  "createdAt": "2026-03-10T06:17:08.843389Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "声をきかせて",
+      "artist": "斉藤 朱夏",
+      "has_synced": true,
+      "path": "select/01_声をきかせて_斉藤_朱夏.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "声をきかせて",
+      "artist": "斉藤朱夏",
+      "has_synced": true,
+      "path": "select/02_声をきかせて_斉藤朱夏.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "声をきかせて",
+      "artist": "BIGBANG",
+      "has_synced": true,
+      "path": "select/03_声をきかせて_BIGBANG.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "声をきかせて",
+      "artist": "BIGBANG",
+      "has_synced": true,
+      "path": "select/04_声をきかせて_BIGBANG.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "声をきかせて",
+      "artist": "BIGBANG",
+      "has_synced": true,
+      "path": "select/05_声をきかせて_BIGBANG.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "声をきかせて - Koe Wo Kikasete",
+      "artist": "BIGBANG",
+      "has_synced": true,
+      "path": "select/06_声をきかせて_-_Koe_Wo_Kikasete_BIGBANG.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "声をきかせて [BIGBANG JAPAN DOME TOUR 2017 -LAST DANCE- : THE FINAL]",
+      "artist": "Bigbang",
+      "has_synced": true,
+      "path": "select/07_声をきかせて_[BIGBANG_JAPAN_DOME_TOUR_2017_-LAST_DANCE-___THE_FINAL]_Bigbang.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "声をきかせて - [BIGBANG JAPAN DOME TOUR 2017 -LAST DANCE-]",
+      "artist": "BIGBANG",
+      "has_synced": true,
+      "path": "select/08_声をきかせて_-_[BIGBANG_JAPAN_DOME_TOUR_2017_-LAST_DANCE-]_BIGBANG.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "声をきかせて (让我听你的声音)",
+      "artist": "BIGBANG (빅뱅)",
+      "has_synced": true,
+      "path": "select/09_声をきかせて_(让我听你的声音)_BIGBANG_(빅뱅).lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "声をきかせて",
+      "artist": "BIGBANG",
+      "has_synced": true,
+      "path": "select/10_声をきかせて_BIGBANG.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "声をきかせて",
+      "artist": "BIGBANG",
+      "has_synced": true,
+      "path": "select/11_声をきかせて_BIGBANG.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "声をきかせて",
+      "artist": "BIGBANG",
+      "has_synced": true,
+      "path": "select/12_声をきかせて_BIGBANG.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "声をきかせて",
+      "artist": "BIGBANG",
+      "has_synced": false,
+      "path": "select/pl_01_声をきかせて_BIGBANG.txt"
+    }
+  ]
+}
